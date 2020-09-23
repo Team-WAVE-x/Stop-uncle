@@ -1,9 +1,12 @@
 {
-  "name": "Stop-uncle",
+  "name": "stop-uncle",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Team-WAVE-x/Stop-uncle.git",
-  "author": "1-EXON <exon.indiv@gmail.com>, Park Min Hyeok <pmhstudio.pmh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Team-WAVE-x/Stop-uncle.git"
+  },
+  "author": "1-EXON <exon.indiv@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
@@ -15,5 +18,13 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
+  },
+  "description": "아저씨 그만좀 (아재개그 API)",
+  "bugs": {
+    "url": "https://github.com/Team-WAVE-x/Stop-uncle/issues"
+  },
+  "homepage": "https://github.com/Team-WAVE-x/Stop-uncle#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
