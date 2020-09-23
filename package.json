@@ -1,0 +1,23 @@
+{
+  "name": "stop-uncle",
+  "version": "1.0.0",
+  "description": "아저씨 그만좀 (아재개그 API)",
+  "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-WAVE-x/Stop-uncle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-WAVE-x/Stop-uncle/issues"
+  },
+  "homepage": "https://github.com/Team-WAVE-x/Stop-uncle#readme"
+}
