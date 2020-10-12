@@ -1,0 +1,11 @@
+CREATE TABLE `token` (
+	`insertID` INT(11) NOT NULL AUTO_INCREMENT,
+	`token` VARCHAR(50) NULL DEFAULT NULL COLLATE 'utf8_general_ci',
+	`call_count` INT(11) NULL DEFAULT '0',
+	`is_banned` INT(11) UNSIGNED NULL DEFAULT '0',
+	PRIMARY KEY (`insertID`) USING BTREE
+)
+COLLATE='utf8_general_ci'
+ENGINE=InnoDB
+AUTO_INCREMENT=3
+;
