@@ -5,7 +5,7 @@ axios.request({
   url: 'http://localhost:8080/',
   headers: { 
     'Content-Type': 'application/json',
-    'token' : 'F9e265G1efgrLfmaZ5Ut6ohjemal6D0-'
+    'token' : 'wpU-NWyU5ofCqqU~ZdJpwNlJFvDyWu8H'
   },
   params: { quiz: 'random' }
 }).then(res => {
