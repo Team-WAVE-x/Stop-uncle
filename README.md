@@ -7,7 +7,7 @@
 나는 잘 모르겠고 어쨌든 이런식임
 
 ## Requirements
-|제목|내용|설명|
+|Name|Version|Tested|
 |:---|:---|:---|
 |Windows|Windows 10 1909|✔️(Development)|
 |Node.js|v.12.18.2|✔️|
