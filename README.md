@@ -27,7 +27,7 @@
 ```html
 http://uncle.teamwv.ml/api?quiz=random
 ```
-#### ※ 요청변수 [POST]
+#### ※ 요청변수 [GET]
 ##### header
 |parameter|항목설명|
 |---|---|
