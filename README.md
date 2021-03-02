@@ -17,7 +17,6 @@
 ## How to use
 ## 🔐 0. 서비스키 발급
 ### 1. 키 발급
-- http://uncle.teamwv.ml 에 방문해서 이메일 주소를 입력하신후 `GetKey` 버튼을 눌러주세요.
 - 버튼을 누르면 메일로 API 키가 발송됩니다.
 
 ## ✔ 1. 아재개그 퀴즈
@@ -25,7 +24,7 @@
   - 제공 정보: 아재개그 퀴즈와 답
  
 ```html
-http://uncle.teamwv.ml/api?quiz=random
+http://yourhost/api?quiz=random
 ```
 #### ※ 요청변수 [GET]
 ##### header
@@ -37,7 +36,7 @@ http://uncle.teamwv.ml/api?quiz=random
   - 제공 정보: 엑슨바보
  
 ```html
-http://uncle.teamwv.ml/api?quiz=exonbabo
+http:/yourhost/api?quiz=exonbabo
 ```
 #### ※ 요청변수 [GET]
 ##### body
