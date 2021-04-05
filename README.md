@@ -10,6 +10,7 @@
 |Name|Version|Tested|
 |:---|:---|:---|
 |Windows|Windows 10 1909|✔️(Development)|
+|Linux|ubuntu 18.04 |✔️(Tested)|
 |Node.js|v.12.18.2|✔️|
 |MariaDB|10.5.5-MariaDB|✔️|
 |NPM|6.14.5|✔️|
